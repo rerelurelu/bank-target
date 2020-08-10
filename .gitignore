@@ -1,2 +1,6 @@
 *.ipynb_checkpoints
 *.csv
+*.tsv
+*.pkl
+*.html
+.idea/
